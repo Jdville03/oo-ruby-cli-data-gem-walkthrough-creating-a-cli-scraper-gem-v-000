@@ -70,7 +70,7 @@ This video lessons walks through the process of building a CLI Gem with a focus 
  * make 'em then make 'em interact then make more!
  * power of objects come from their collaboration
  * dominoes!
- * Onside out development vs outside in
+ * Inside out development vs outside in
    * restaurant analogy - outside in
 * Models views controllers
 * Push to github!
